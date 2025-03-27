@@ -1,0 +1,14 @@
+C:\Users\Messias\Desktop\Triângulos\triangulos\bin\Debug\net9.0\triangulos.exe
+C:\Users\Messias\Desktop\Triângulos\triangulos\bin\Debug\net9.0\triangulos.deps.json
+C:\Users\Messias\Desktop\Triângulos\triangulos\bin\Debug\net9.0\triangulos.runtimeconfig.json
+C:\Users\Messias\Desktop\Triângulos\triangulos\bin\Debug\net9.0\triangulos.dll
+C:\Users\Messias\Desktop\Triângulos\triangulos\bin\Debug\net9.0\triangulos.pdb
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.AssemblyInfoInputs.cache
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.AssemblyInfo.cs
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.csproj.CoreCompileInputs.cache
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.dll
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\refint\triangulos.dll
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.pdb
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\triangulos.genruntimeconfig.cache
+C:\Users\Messias\Desktop\Triângulos\triangulos\obj\Debug\net9.0\ref\triangulos.dll
